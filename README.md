@@ -3,9 +3,8 @@
 > My code for the git project
 
 ## Im on the feature branch
-<<<<<<< HEAD
+
 ## I messed up the first time. Time for round two.
-=======
+
 ## I messed up the first time. Time for round two.
 ## Third time is the charm
->>>>>>> readme-styling
